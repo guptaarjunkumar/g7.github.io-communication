@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+### COMMUNICATION
 
-You can use the [editor on GitHub](https://github.com/guptaarjunkumar/g7.github.io-communication/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## PAST
+bla bla bla bla 
 
-- Bulleted
-- List
+[Link]('
+http://www.explainthatstuff.com/articles_communications.html
+http://www.explainthatstuff.com/articles_gadgets.html
+https://en.wikipedia.org/wiki/Timeline_of_communication_technology
+https://en.wikipedia.org/wiki/History_of_communication
 
-1. Numbered
-2. List
+https://en.wikipedia.org/wiki/Timeline_of_photography_technology
+https://en.wikipedia.org/wiki/Telegraphy
+https://en.wikipedia.org/wiki/Telephone
+https://en.wikipedia.org/wiki/Phonograph') 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guptaarjunkumar/g7.github.io-communication/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## PRESENT
+bla bla bla
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link]('
+http://www.explainthatstuff.com/articles_communications.html
+http://www.explainthatstuff.com/articles_gadgets.html
+https://en.wikipedia.org/wiki/Timeline_of_communication_technology
+https://en.wikipedia.org/wiki/History_of_communication
+
+https://en.wikipedia.org/wiki/Timeline_of_photography_technology
+https://en.wikipedia.org/wiki/Telegraphy
+https://en.wikipedia.org/wiki/Telephone
+https://en.wikipedia.org/wiki/Phonograph') 
+
+
+
+
+
+
+## FUTURE
+
+bla bla bla
+
+
+
+[Link]('
+http://www.explainthatstuff.com/articles_communications.html
+http://www.explainthatstuff.com/articles_gadgets.html
+https://en.wikipedia.org/wiki/Timeline_of_communication_technology
+https://en.wikipedia.org/wiki/History_of_communication
+
+https://en.wikipedia.org/wiki/Timeline_of_photography_technology
+https://en.wikipedia.org/wiki/Telegraphy
+https://en.wikipedia.org/wiki/Telephone
+https://en.wikipedia.org/wiki/Phonograph') 
+
+
