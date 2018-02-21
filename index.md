@@ -1,5 +1,4 @@
-![](/images/logo.png)
- ![f](http://iitportal.com/IIT-Ropar)
+![Image](https://user-images.githubusercontent.com/35802673/36476353-b0c54be2-1723-11e8-9f03-50e5c7f001eb.png)
 
 
 ### COMMUNICATION
@@ -20,7 +19,7 @@
 bla bla bla bla 
 
 [Link]('
-http://www.explainthatstuff.com/articles_communications.html
+https://github.com/guptaarjunkumar/g7.github.io-communication/commit/url
 http://www.explainthatstuff.com/articles_gadgets.html
 https://en.wikipedia.org/wiki/Timeline_of_communication_technology
 https://en.wikipedia.org/wiki/History_of_communication
