@@ -1,3 +1,14 @@
+# COMMUNICATION
+
+
+
+
+
+
+
+
+
+
 
 
 ## PAST
