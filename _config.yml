@@ -10,4 +10,4 @@ github_username:  guptaarjunkumar
 
 # Build settings
 markdown: kramdown
-theme:  jekyll-theme-merlot
+theme:  jekyll-theme-tactile
