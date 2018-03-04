@@ -1,17 +1,3 @@
-![Image](https://user-images.githubusercontent.com/35802673/36476353-b0c54be2-1723-11e8-9f03-50e5c7f001eb.png)
-
-
-# COMMUNICATION
-
-
-
-
-
-
-
-
-
-
 
 
 ## PAST
