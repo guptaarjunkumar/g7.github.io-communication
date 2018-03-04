@@ -1,12 +1,12 @@
 
 
 # basic options
-title: COMMUBICATION
+title: COMMUNICATION
 author: GitHub User
 email: your-email@domain.com
-description: A wonderful site
+description:
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  guptaarjunkumar
 
 # Build settings
 markdown: kramdown
