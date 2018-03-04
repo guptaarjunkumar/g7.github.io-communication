@@ -28,9 +28,9 @@ https://en.wikipedia.org/wiki/Telegraphy
 https://en.wikipedia.org/wiki/Telephone
 https://en.wikipedia.org/wiki/Phonograph') 
 
-[GitHub Pages](https://pages.github.com/).
+[GitHub Pages](https://en.wikipedia.org/wiki/Timeline_of_photography_technology).
 http://www.explainthatstuff.com/articles_communications.html
-[](https://github.com/guptaarjunkumar/g7.github.io-communication/commit/url)
+[modern](https://github.com/guptaarjunkumar/g7.github.io-communication/commit/url)
   
   
   
