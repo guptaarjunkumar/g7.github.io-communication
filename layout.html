@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title> IIT RPR ge101 lab</title>
+          <style>
+                   #top_heading{
+				                        font bold 40px Tahoma;
+						                     padding:5px;
+						                     border:1px solid black;
+                               }
+                   #navig li{
+                          	display:inline-block;
+                          	padding:5px;
+                          }
+          </style>
+     </head>
+     <body>
+       <div id="top_heading">
+         <h1>COMMUNICATION</h1>
+       </div>
+       <ul id="navig">
+         <li><a href="{{ url_for('index')}}">HOME</a><li>
+         <li><a href="{{ url_for('past')}}">PAST</a><li>
+         <li><a href="{{ url_for('present')}}">PRESENT</a><li>
+         <li><a href="{{ url_for('future')}}">FUTURE</a><li>
+
+
+       </ul>
+          <h1 style="text-align:center">{% block heading %}{% endblock %}</h1>
+
+
+          {% block body %}
+          {% endblock %}
+     </body>
+
+</html>
